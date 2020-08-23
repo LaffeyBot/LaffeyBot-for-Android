@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--BY zezen-->
+<!--颜色定义文件-->
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="black">#000000</color>
+    <color name="SkyBlue">#F0FFFF</color>
+    <color name="whiteyll">#FCE6C9</color>
+</resources>
